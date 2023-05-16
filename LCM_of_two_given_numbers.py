@@ -1,6 +1,5 @@
 # Prompt the user to enter two numbers
 num1,num2=map(int,input().split())
-
 # Find the maximum of the two numbers
 max_num = max(num1, num2)
 
